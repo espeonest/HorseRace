@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\Conestoga\Game Prog\HorseRace\bin\Debug\HorseRace.exe.config
+C:\Users\Lenovo\Desktop\Conestoga\Game Prog\HorseRace\bin\Debug\HorseRace.exe
+C:\Users\Lenovo\Desktop\Conestoga\Game Prog\HorseRace\bin\Debug\HorseRace.pdb
+C:\Users\Lenovo\Desktop\Conestoga\Game Prog\HorseRace\obj\Debug\HorseRace.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Conestoga\Game Prog\HorseRace\obj\Debug\HorseRace.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\Conestoga\Game Prog\HorseRace\obj\Debug\HorseRace.GameForm.resources
+C:\Users\Lenovo\Desktop\Conestoga\Game Prog\HorseRace\obj\Debug\HorseRace.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Conestoga\Game Prog\HorseRace\obj\Debug\HorseRace.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Conestoga\Game Prog\HorseRace\obj\Debug\HorseRace.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Conestoga\Game Prog\HorseRace\obj\Debug\HorseRace.exe
+C:\Users\Lenovo\Desktop\Conestoga\Game Prog\HorseRace\obj\Debug\HorseRace.pdb
